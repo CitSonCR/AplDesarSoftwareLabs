@@ -1,0 +1,11 @@
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\bin\Debug\netcoreapp2.0\Lab02Clase03.deps.json
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\bin\Debug\netcoreapp2.0\Lab02Clase03.runtimeconfig.json
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\bin\Debug\netcoreapp2.0\Lab02Clase03.runtimeconfig.dev.json
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\bin\Debug\netcoreapp2.0\Lab02Clase03.dll
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\bin\Debug\netcoreapp2.0\Lab02Clase03.pdb
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\obj\Debug\netcoreapp2.0\Lab02Clase03.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\obj\Debug\netcoreapp2.0\Lab02Clase03.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\obj\Debug\netcoreapp2.0\Lab02Clase03.AssemblyInfoInputs.cache
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\obj\Debug\netcoreapp2.0\Lab02Clase03.AssemblyInfo.cs
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\obj\Debug\netcoreapp2.0\Lab02Clase03.dll
+C:\Users\ulacit\Documents\GitHub\AplDesarSoftwareLabs\Lab02Clase03\Lab02Clase03\obj\Debug\netcoreapp2.0\Lab02Clase03.pdb
