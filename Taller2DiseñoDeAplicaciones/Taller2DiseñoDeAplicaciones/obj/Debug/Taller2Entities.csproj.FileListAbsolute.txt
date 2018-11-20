@@ -1,0 +1,5 @@
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\Taller2DiseñoDeAplicaciones\bin\Debug\Taller2DiseñoDeAplicaciones.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\Taller2DiseñoDeAplicaciones\bin\Debug\Taller2DiseñoDeAplicaciones.pdb
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\Taller2DiseñoDeAplicaciones\obj\Debug\Taller2Entities.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\Taller2DiseñoDeAplicaciones\obj\Debug\Taller2DiseñoDeAplicaciones.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\Taller2DiseñoDeAplicaciones\obj\Debug\Taller2DiseñoDeAplicaciones.pdb

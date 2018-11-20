@@ -1,0 +1,8 @@
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\bin\Debug\Taller2DiseñoDeAplicaciones.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\bin\Debug\Taller2DiseñoDeAplicaciones.pdb
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Taller2DiseñoDeAplicaciones\BusinessLogic\obj\Debug\BusinessLogic.pdb
